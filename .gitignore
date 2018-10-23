@@ -1,0 +1,6 @@
+*.json*
+*.bak
+*.h5
+*__pycache__*
+*ipynb_checkpoints
+*tmp.ipynb
